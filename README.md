@@ -25,7 +25,7 @@ Diseñar un dispositivo que permita la detección de temperatura corporal, mostr
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
 |HU001| Yo como (adulto mayor) quiero que el collar inteligente detecte mi presión arterial y me muestre los datos de manera continua, mandando una alerta cuando los niveles estan fuera del rango de una presión arterial normal para el correcto seguimiento de mi enfermedad.  | Debe, Puede, Estaria bien, No se hara | 0.7| El adulto mayor se coloca el dispositivo en el cuello y presiona el boton de encendido y el dispositivo desplegara la informacion en la pantalla inteligente desplegando tambien alertas sonoras y visuales en casos fuera de rango | Daniel Soto |
-|    |                     |           |            |               |             |
+|    |                     |           |            |               | Ana Jasso |
 |    |                     |           |            |               |             |
 
 ## Prototipo en Dibujo
