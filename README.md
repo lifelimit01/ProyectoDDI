@@ -14,7 +14,7 @@ Diseñar un dispositivo que permita la detección de temperatura corporal, mostr
 |---|---|---|---|---|---|
 |1|ESP32|Pines, nucleos, RAM, Flash|![image](https://github.com/lifelimit01/ProyectoDDI/assets/93737169/257f7e72-9f6b-4957-8493-793b69f2f2de)|$ 170.00|2|
 
-##Software a utilizar
+## Software a utilizar
 | Id | Software | Version | Tipo |
 |----|----------|---------|------|
 |  1 | NODE RED | 3.0.2   | Software Libre     |
@@ -28,5 +28,9 @@ Diseñar un dispositivo que permita la detección de temperatura corporal, mostr
 |    |                     |           |            |               |             |
 |    |                     |           |            |               |             |
 
-##Prototipo en Dibujo
+## Prototipo en Dibujo
 - Coloca la fotografia de tu prorotipo en dibujo
+
+## Placa 
+
+## Prototipo en #D
